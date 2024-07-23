@@ -4,11 +4,11 @@ Welcome to my personal portfolio website!
 
 ## Overview
 
-This is the portfolio site of **Prazwal Pandey**, showcasing my work, skills, and contact information. The site includes:
+This is the simple landing portfolio site of **Prazwal Pandey**, redirecting to my projects and contact information. The site includes:
 
 - **Header**: Featuring my name, a brief tagline, and links to my social profiles.
 - **Navigation**: Quick access to my Twitter, LinkedIn, CV, GitHub, and email.
-- **Footer**: Copyright information and a link to my website.
+- **Footer**: Copyright information.
 
 ## Features
 
@@ -30,7 +30,7 @@ To view the site locally, clone the repository and open `index.html` in your bro
 git clone https://github.com/prazwalpandey/portfolio.git
 cd portfolio
 open index.html
-
+```
 ### Contact
 Feel free to connect with me via `[Twitter](https://x.com/prazwalpandey)`, LinkedIn, or Email.
 
