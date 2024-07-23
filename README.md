@@ -29,7 +29,7 @@ To view the site locally, clone the repository and open `index.html` in your bro
 ```bash
 git clone https://github.com/prazwalpandey/portfolio.git
 cd portfolio
-open index.html
+vim index.html
 ```
 ### Contact
 Feel free to connect with me via [Twitter](https://x.com/prazwalpandey), [LinkedIn](https://linkedin.com/in/prazwalpandey), or [Email](mailto:prazwalpandey@gmail.com).
