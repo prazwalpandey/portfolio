@@ -32,7 +32,7 @@ cd portfolio
 open index.html
 ```
 ### Contact
-Feel free to connect with me via [Twitter](https://x.com/prazwalpandey), LinkedIn, or Email.
+Feel free to connect with me via [Twitter](https://x.com/prazwalpandey), [LinkedIn](https://linkedin.com/in/prazwalpandey), or [Email](mailto:prazwalpandey@gmail.com).
 
 ### License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
