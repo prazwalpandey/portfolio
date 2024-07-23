@@ -35,7 +35,7 @@ open index.html
 Feel free to connect with me via Twitter, LinkedIn, or Email.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE file for details.
 
 - Horizontally tileable.
 - Wide and short.
