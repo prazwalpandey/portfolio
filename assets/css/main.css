@@ -800,7 +800,9 @@ input, select, textarea {
 		#bg {
 			background-size: contain;
 			/* background-size: 1500px auto; */
-			width: 4500px;
+			/* width: 4500px; */
+			width: 5000px;
+
 		} }
 
 /* Normal */
@@ -883,7 +885,9 @@ input, select, textarea {
 		#bg {
 			/* background-size: 750px auto; */
 			background-size: contain;
-			width: 2250px;
+			/* width: 2250px; */
+			width: 3000px;
+
 		} }
 
 /* Mobile */
@@ -970,7 +974,9 @@ input, select, textarea {
 		#bg {
 			background-size: contain;
 			/* background-size: 300px auto; */
-			width: 900px;
+			/* width: 900px; */
+			width: 1700px;
+
 		}
 
 	/* Header */
@@ -1069,7 +1075,9 @@ input, select, textarea {
 		#bg {
 			/* background-size: 412.5px auto; */
 			background-size: contain;
-			width: 1237.5px;
+			/* width: 1237.5px; */
+			width: 1700px;
+
 		}
 
 	/* Header */
